@@ -1,4 +1,4 @@
-FROM hugomods/hugo:exts
+FROM klakegg/hugo:ext
 
 COPY . /src
 
