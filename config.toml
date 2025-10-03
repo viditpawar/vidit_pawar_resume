@@ -1,0 +1,5 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Vidit Pawar - Resume"
+theme = "ananke"   # or another theme you plan to use
+publishDir = "public"
