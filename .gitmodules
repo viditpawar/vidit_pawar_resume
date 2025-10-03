@@ -1,3 +1,6 @@
 [submodule "vidit_resume/themes/resume-a4"]
 	path = vidit_resume/themes/resume-a4
 	url = https://gitlab.com/mertbakir/resume-a4.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
